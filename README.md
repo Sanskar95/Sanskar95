@@ -3,9 +3,9 @@ Checkout some awesome stuff here!
 
 
 📕 **npm packages**
-Some npm packages worth using in your frontend apps
+- Some npm packages worth using in your frontend apps
 - [Configurable react toast message - simple-toast-notification](https://www.npmjs.com/package/simple-toast-notification)
-- [A react website announcement component that sits on the top](https://www.npmjs.com/package/react-site-announcement)
+- [A react website announcement component that sits on the top - react-site-announcement](https://www.npmjs.com/package/react-site-announcement)
 
 
 📕 **Latest Blog Posts**
