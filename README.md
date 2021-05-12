@@ -15,3 +15,8 @@ Checkout some awesome stuff here!
 - [NPM Primer: Publishing your first npm package](https://dev.to/sanskar95/npm-primer-publishing-your-first-npm-package-1ma7)
 - [Add a rich text editor to your app: react-draft-wysiwyg](https://dev.to/sanskar95/add-a-rich-text-editor-to-your-app-react-draft-wysiwyg-44ob)
 <!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanskar95&show_icons=true&theme=radical" height=165>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar95&layout=compact&theme=radical" height=165>
+</p>
